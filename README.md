@@ -1,6 +1,9 @@
 # Ethereum Name Service Bid Documents
 
-## Why ens.bid?
+- Website: [ens.bid](https://ens.bid)
+- Contract: [escrow contract](https://github.com/ens-bid/contracts)
+
+## Why need ens.bid?
 ENS 將會是對 Ethereum 跨入應用階段一個很重要的輔助，鑒於目前所有的 Ethereum address 都是 non-human readable 的一串 hash，所以透過 ENS 將 `.eth` 解析後，變成一個人為能夠理解的網址是非常重要的。  
 駭客透過竄改 ICO 網站的 Contract address，導致許多項目遭遇到莫名的損失，如果該位置是透過一個可以被人為閱讀的 `.eth` 肯定可以很迅速被發現。  
 參考資料：[CoinDash Hack](https://www.hackread.com/coindash-token-sale-ico-website-hacked-ethereum-stolen-2/)
@@ -18,6 +21,6 @@ ens.bid 會透過智能合約的輔助，協助雙方透過一個可信任的依
     - 履約保證合約
 
 ----
-### Author
+## Authors
 
 [Phyrex Tsai](https://github.com/PhyrexTsai)
