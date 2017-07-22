@@ -1,4 +1,4 @@
-# Ethereum Name Service Bid Documents
+# ENS (Ethereum Name Service) Bid Documents
 
 - Website: [ens.bid](https://ens.bid)
 - Contract: [escrow contract](https://github.com/ens-bid/contracts)
