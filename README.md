@@ -21,7 +21,7 @@ ens.bid 會透過智能合約的輔助，協助雙方透過一個可信任的依
 
 ## Reference
 1. [Ethereum Name Service](http://ens.domains/)
-2. [CoinDash Hack News](https://www.hackread.com/coindash-token-sale-ico-website-hacked-ethereum-stolen-2/)
+2. [CoinDash Hack News](https://www.hackread.com/coindash-token-sale-ico-website-hacked-ethereum-stolen-2/)
 
 ----
 ## Authors
