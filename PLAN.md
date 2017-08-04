@@ -4,7 +4,7 @@
 透過material design設計一個風格漂亮好操作的網站，設計概念需要比ens.domains好操作
 
 ## Landing page
-- ICO 介紹
+- ICO 介紹
 - ENS 介紹
 - ENS Register
 
@@ -13,7 +13,7 @@
 - 建構 Escrow 的平台
     - 鏈外搓合、鏈上透過履約保證交易ENS
 - 建構 Load 的平台
-    - 鏈上質借ENS，並且計算利息
+    - 鏈上質借ENS，並且計算利息
 
 ## Whitepaper
 - 介紹ENS如何改善Ethereum網路架構，並且描述其必要性與願景
@@ -27,7 +27,7 @@
 - ENS Escrow 的流程，與獲利模式
     - 提供履約保證合約協助交易，並且從中抽取手續費
 - ENS Loan 的流程，與獲利模式
-    - 提供抵押ETH域名，獲得ETH，可以在一定期間內贖回，從中收取利息，概念類似資產擔保借款的概念
+    - 提供抵押ETH域名，獲得ETH，可以在一定期間內贖回，從中收取利息，概念類似資產擔保借款的概念
 
 ## Marketing
 - Google AdWord
@@ -56,7 +56,7 @@ ENS借款的合約，借款成立將會從wallet支付款項，並且取得ENS�
 
 ### 短期項目
 
-1. Website/Landing page
+1. Website/Landing page
 2. Whitepaper
 3. Contract(ERC20, Wallet)
 4. Website/DApp
